@@ -43,8 +43,7 @@ The **MNIST dataset** consists of **60,000** training images and **10,000** test
 ## 📊 Model Performance  
 - Achieved **high accuracy** on the test dataset.
 - **Training Accuracy** 99.39%
-- **Validation Accuracy** 98.15%  
-
+- **Validation Accuracy** 98.15%
 
 ## 📌 Sample Prediction  
 ```python
